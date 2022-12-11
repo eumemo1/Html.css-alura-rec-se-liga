@@ -6,6 +6,10 @@ body {
   background: #CCCCCC
 }
 
+h1 {
+    text−align: center
+}
+
 .Titulo pricipal {
    padding−left: 20px;
 }
